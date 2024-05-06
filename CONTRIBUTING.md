@@ -228,7 +228,7 @@ After getting permission, take a screenshot of the message that gave you consent
 
 Always remember that the creative work of others is protected by copyleft. By obtaining permission, you respect and support the creators and the community at large.
 
-> I also recommend not trying to propose other people's projects just in case...
+> I still recommend *not* trying to propose other people's projects just in case...
 
 ### 2. Reducing the project size
 
@@ -239,6 +239,8 @@ In the intricate world of digital creation, particularly within projects develop
 ---
 
 So have you ever wanted to reduce your project file size, but didn't have access to some sort of mysterious Lazy Loading method? When I was setting up this repository, I thought of packaging [Right Side City](https://scratch.mit.edu/projects/784182808/) and importing the `.html` into GitHub for testing. It's a random platformer inspired by Splatoon 2: Octo Expansion that I had made out of pure boredom that ended up winning second place in a famous Scratcher's contest, but I'm sure you don't even care so let's just forget about that.
+
+Anyway, the `.sb3` for Right Side City was well over 100 MB, which is literally the maximum file size GitHub allows you to upload *quadrupled*. Of course, it wouldn't fit after packaging.
   </p>
 </details>
 
