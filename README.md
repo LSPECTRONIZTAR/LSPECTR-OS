@@ -21,7 +21,11 @@ To install LSPECTR-OS, simply download the executable file from our [Game Jolt p
 
 ## What LSPECTR-OS Cannot Do
 
-Share your personal information for everyone to see.
+- Stick out its gyat(t) for the rizzler.
+
+## Planned Features
+
+- Voice chat (only that would require storing passwords into global Game Jolt data and I don't want to take risks)
 
 ## Acknowledgments
 
