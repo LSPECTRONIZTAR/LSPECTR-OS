@@ -232,15 +232,18 @@ Always remember that the creative work of others is protected by copyleft. By ob
 
 ### 2. Reducing the project size
 
-In the intricate world of digital creation, particularly within projects developed using Scratch's versatile `.sb3` format, the efficiency and manageability of a project file can often hinge on seemingly small but significantly impactful elements. As creators and developers, it is crucial to understand that the size of an `.sb3` file is not merely a static measurement, but rather a dynamic aggregate influenced by two major components: the `project.json` file, which encapsulates the complexity and quantity of code blocks utilized, and the plethora and size of associated assets, including sprite files. This understanding is not just academic—it is a practical insight that can lead to more streamlined and efficient project management. As we venture deeper into the nuances of file optimization, let us explore the transformative strategy of exporting sprite files, thereby reducing the overall file size and enhancing the operational functionality of our projects on platforms like GitHub.
+> In the intricate world of digital creation, particularly within projects developed using Scratch's versatile `.sb3` format, the efficiency and manageability of a project file can often hinge on seemingly small but significantly impactful elements. As creators and developers, it is crucial to understand that the size of an `.sb3` file is not merely a static measurement, but rather a dynamic aggregate influenced by two major components: the `project.json` file, which encapsulates the complexity and quantity of code blocks utilized, and the plethora and size of associated assets, including sprite files. This understanding is not just academic—it is a practical insight that can lead to more streamlined and efficient project management. As we venture deeper into the nuances of file optimization, let us explore the transformative strategy of exporting sprite files, thereby reducing the overall file size and enhancing the operational functionality of our projects on platforms like GitHub.
 
-> If English high school teachers wanted us to write an introductory paragraph that sets the stage for discussing the impact of sprite files and assets on the size of an `.sb3` file, that would be what they expect us to write.
-
----
+If English high school teachers wanted us to write an introductory paragraph that sets the stage for discussing the impact of sprite files and assets on the size of an `.sb3` file, I can assure you that would be what they expect us to write. Anyway...
 
 So have you ever wanted to reduce your project file size, but didn't have access to some sort of mysterious Lazy Loading method? When I was setting up this repository, I thought of packaging [Right Side City](https://scratch.mit.edu/projects/784182808/) and importing the `.html` into GitHub for testing. It's a random platformer inspired by Splatoon 2: Octo Expansion that I had made out of pure boredom that ended up winning second place in a famous Scratcher's contest, but I'm sure you don't even care so let's just forget about that.
 
-Anyway, the `.sb3` for Right Side City was well over 100 MB, which is literally the maximum file size GitHub allows you to upload *quadrupled*. Of course, it wouldn't fit after packaging.
+Anyway, the `.sb3` for Right Side City was well over 150 MB, and we all know that 150 is literally 25 (the maximum file size GitHub allows you to upload) *sextupled* (I'm talking about sextupled as in multiplied by six, seriously, who even named it like that and why?). Of course, it wouldn't fit after packaging. So I came up with a solution that I think might help you guys out as well. But it requires owning your own GitHub account *and* creating your own GitHub repositories.
+
+> [!NOTE]
+> If at any time should you feel uncomfortable trying this solution, just remember no one forced you to do it. 😇
+
+The first thing you should do is [WORK IN PROGRESS]
   </p>
 </details>
 
