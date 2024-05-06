@@ -228,7 +228,7 @@ After getting permission, take a screenshot of the message that gave you consent
 
 Always remember that the creative work of others is protected by copyleft. By obtaining permission, you respect and support the creators and the community at large.
 
-> I still recommend *not* trying to propose other people's projects just in case...
+P.S. I still recommend *not* trying to propose other people's projects just in case...
 
 ### 2. Reducing the project size
 
@@ -240,7 +240,15 @@ Anyway, the `.sb3` for Right Side City was well over 150 MB, and we all know tha
 
 ---
 
-The first thing you should do is [WORK IN PROGRESS]
+The first step is to create two repositories on GitHub. The first repository should be named `username.github.io`, where `username` is your GitHub username. This repository serves as your personal GitHub Pages site. The second repository should be named after your project. Then find out how to set up your GitHub Pages website, there is documentation on GitHub for that.
+
+Next, load your Scratch project in TurboWarp and export sprite files to your computer. Delete these sprite files from your project to free up space. Save the project to your computer periodically and continue exporting sprites until the project size is below 25 MB.
+
+Create a new folder on your computer exactly named 'Sprites' and place all the exported sprite files into this folder. Now, drag and drop the entire 'Sprites' folder into the repository named after your project on GitHub. You can then get the link of each sprite with the following link: `https://username.github.io/project-repository-name/Sprites/sprite-name.sprite3`.
+
+Then, to streamline asset management within TurboWarp, import the Asset Manager custom extension by [@LilyMakesThings](https://github.com/LilyMakesThings). You can easily import this extension into TurboWarp by using [this link](https://extensions.turbowarp.org/Lily/Assets.js). Use the 'add sprite from URL ()' block to add the sprite directly from the GitHub repository. (If you tested it in TurboWarp, be sure to re-delete the sprites right after.) Then try making a script where the project cannot start until all the sprites are loaded.
+
+Then read this entire documentation over. (Remind me to improve this section later.)
   </p>
 </details>
 
