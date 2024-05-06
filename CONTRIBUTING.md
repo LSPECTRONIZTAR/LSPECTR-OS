@@ -248,7 +248,7 @@ Create a new folder on your computer exactly named 'Sprites' and place all the e
 
 Then, to streamline asset management within TurboWarp, import the Asset Manager custom extension by [@LilyMakesThings](https://github.com/LilyMakesThings). You can easily import this extension into TurboWarp by using [this link](https://extensions.turbowarp.org/Lily/Assets.js). Use the 'add sprite from URL ()' block to add the sprite directly from the GitHub repository. (If you tested it in TurboWarp, be sure to re-delete the sprites right after.) Then try making a script where the project cannot start until all the sprites are loaded.
 
-Then read this entire documentation over. (Remind me to improve this section later.)
+Then read this entire documentation over. Please don't try to do this to projects that aren't yours. (Remind me to improve this section later.)
   </p>
 </details>
 
