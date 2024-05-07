@@ -1,22 +1,68 @@
+/* Custom Fonts */
+
+/* Link to your custom font files */
+@font-face {
+    font-family: 'DroidSansRegular';
+    src: url('fonts/DroidSans-Regular.woff2') format('woff2'),
+         url('fonts/DroidSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DroidSansBold';
+    src: url('fonts/DroidSans-Bold.woff2') format('woff2'),
+         url('fonts/DdoidSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Body Styles */
+
+/* Apply custom font to body */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #010101;
-    color: #ffffff;
+    font-family: 'DroidSansRegular', Arial, sans-serif;
+    color: #ffffff; /* Example color */
+    background-color: #212121; /* Example background color */
+    margin: 0;
+    padding: 0;
 }
 
-header {
-    background: #007bff;
-    color: #ffffff;
-    padding: 10px;
-    text-align: center;
+/* Heading Styles */
+
+/* Apply separate font to headings */
+h1, h2, h3 {
+    font-family: 'DroidSansBold', Arial, sans-serif;
+    color: #007bff; /* Example color for headings */
+    margin: 10px 0; /* Example margin */
 }
 
-footer {
-    background: #333;
-    color: #ffffff;
-    text-align: center;
-    padding: 5px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+h1 {
+    font-size: 32px; /* Example font size for h1 */
+}
+
+h2 {
+    font-size: 24px; /* Example font size for h2 */
+}
+
+h3 {
+    font-size: 20px; /* Example font size for h3 */
+}
+
+/* Other Styles */
+
+/* Example styles for links */
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Example styles for paragraphs */
+p {
+    line-height: 1.5;
 }
