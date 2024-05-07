@@ -3,16 +3,18 @@
 /* Link to your custom font files */
 @font-face {
     font-family: 'DroidSansRegular';
-    src: url('fonts/DroidSans-Regular.woff2') format('woff2'),
-         url('fonts/DroidSans-Regular.woff') format('woff');
+    src: url('website/fonts/DroidSans-Regular.woff2') format('woff2'),
+         url('website/fonts/DroidSans-Regular.woff') format('woff'),
+         url('website/fonts/DroidSans-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'DroidSansBold';
-    src: url('fonts/DroidSans-Bold.woff2') format('woff2'),
-         url('fonts/DdoidSans-Bold.woff') format('woff');
+    src: url('website/fonts/DroidSans-Bold.woff2') format('woff2'),
+         url('website/fonts/DroidSans-Bold.woff') format('woff'),
+         url('website/fonts/DroidSans-Bold.ttf') format('ttf');
     font-weight: bold;
     font-style: normal;
 }
