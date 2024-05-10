@@ -47,7 +47,7 @@
     },
     {
       "title": "Settings",
-      "description": "Configure LSPECTR-OS settings.",
+      "description": "Configure LSPECTR-OS settings. These settings don't apply to games.",
       "options": [
         {
           "title": "Controls",
@@ -79,6 +79,13 @@
               "title": "Master Volume",
               "slider": {
                 "min": 0,
+                "max": 100
+              }
+            },
+            {
+              "title": "Audio Balance",
+              "slider": {
+                "min": -100,
                 "max": 100
               }
             }
