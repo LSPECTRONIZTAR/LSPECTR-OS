@@ -1,5 +1,5 @@
 {
-  "settings": [
+  "Settings": [
     {
       "title": "Account Management",
       "description": "Manage your LSPECTR-OS account settings.",
@@ -22,7 +22,10 @@
             },
             {
               "title": "From Device",
-              "description": "Delete all LSPECTR-OS data from this device and remove all accounts."
+              "description": "Delete all LSPECTR-OS data from this device and remove all accounts.",
+              "properties": [
+                "owner"
+              ]
             }
           ]
         }
