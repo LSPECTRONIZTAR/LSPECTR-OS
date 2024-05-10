@@ -1,7 +1,0 @@
-{
-  "Account Management": {
-    "description": "Manage your LSPECTR-OS account settings",
-    "options": [
-      {
-        "Sign Out": "Log out of LSPECTR-OS",
-        

@@ -1,0 +1,193 @@
+{
+  "settings": [
+    {
+      "title": "Account Management",
+      "description": "Manage your LSPECTR-OS account settings.",
+      "options": [
+        {
+          "title": "Sign Out",
+          "description": "Log out of LSPECTR-OS."
+        },
+        {
+          "title": "Remove Account from Device",
+          "description": "Remove your LSPECTR-OS account from this device."
+        },
+        {
+          "title": "Delete LSPECTR-OS Data",
+          "description": "Delete LSPECTR-OS data associated with your account or from this device.",
+          "options": [
+            {
+              "title": "From My Account",
+              "description": "Delete all LSPECTR-OS data associated with your account."
+            },
+            {
+              "title": "From Device",
+              "description": "Delete all LSPECTR-OS data from this device and remove all accounts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Profile Settings",
+      "description": "Customize your LSPECTR-OS profile.",
+      "options": [
+        {
+          "title": "Edit Profile",
+          "description": "Update your profile information such as username, avatar, and bio."
+        },
+        {
+          "title": "Change Theme",
+          "description": "Customize the appearance of LSPECTR-OS."
+        }
+      ]
+    },
+    {
+      "title": "Settings",
+      "description": "Configure LSPECTR-OS settings.",
+      "options": [
+        {
+          "title": "Controls",
+          "description": "Customize keybindings and gamepad settings."
+        },
+        {
+          "title": "Graphics",
+          "description": "Adjust screen resolution and graphics quality."
+        },
+        {
+          "title": "Audio",
+          "description": "Manage volume levels and audio output settings.",
+          "options": [
+            {
+              "title": "Music Volume"
+              "slider": {
+                "min": 0,
+                "max": 100
+              }
+            },
+            {
+              "title": "UI Volume"
+              "slider": {
+                "min": 0,
+                "max": 100
+              }
+            },
+            {
+              "title": "Master Volume"
+              "slider": {
+                "min": 0,
+                "max": 100
+              }
+            }
+          ]
+        },
+        {
+          "title": "Startup Options",
+          "description": "Control LSPECTR-OS startup behavior."
+        },
+        {
+          "title": "Backup & Restore",
+          "description": "Backup and restore LSPECTR-OS settings and data."
+        }
+      ]
+    },
+    {
+      "title": "Content Settings",
+      "description": "Customize content-related settings in LSPECTR-OS.",
+      "options": [
+        {
+          "title": "Language",
+          "description": "Choose your preferred language for LSPECTR-OS."
+        },
+        {
+          "title": "Subtitle Settings",
+          "description": "Toggle subtitles on/off and customize appearance."
+        }
+      ]
+    },
+    {
+      "title": "Accessibility",
+      "description": "Enhance accessibility options in LSPECTR-OS.",
+      "options": [
+        {
+          "title": "Colorblind Mode",
+          "description": "Enable colorblind-friendly mode."
+          "properties": [
+            "WIP"
+          ]
+        },
+        {
+          "title": "Text Size",
+          "description": "Adjust text size for better readability."
+        }
+      ]
+    },
+    {
+      "title": "Privacy & Security",
+      "description": "Manage privacy and security settings in LSPECTR-OS.",
+      "options": [
+        {
+          "title": "Privacy Settings",
+          "description": "Manage visibility of your profile and activity log."
+          "options": [
+            {
+              "title": "Profile Privacy",
+              "description": "Decide who can see your LSPECTR-OS profile.",
+              "dropdowns": [
+                "Everyone",
+                "Friends Only",
+                "No One"
+              ]
+            },
+            {
+              "title": "Activity Privacy",
+              "description": "Decide who can see your LSPECTR-OS activity.",
+              "dropdowns": [
+                "Everyone",
+                "Friends Only",
+                "No One"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "description": "Add authentication to your LSPECTR-OS.",
+          "options": [
+            {
+              "title": "Add 4-Digit PIN",
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Notifications",
+      "description": "Manage LSPECTR-OS notification preferences.",
+      "options": [
+        {
+          "title": "Notification Preferences",
+          "description": "Customize notification settings for LSPECTR-OS updates and announcements."
+        },
+        {
+          "title": "Sound Notifications",
+          "description": "Enable/disable sound notifications for events."
+        }
+      ]
+    },
+    "helpSupport": {
+      "title": "Help & Support",
+      "description": "Access help resources and provide feedback for LSPECTR-OS.",
+      "options": [
+        {
+          "title": "FAQ",
+          "description": "Access frequently asked questions about LSPECTR-OS."
+        },
+        {
+          "title": "Feedback",
+          "description": "Provide feedback or report issues with LSPECTR-OS."
+        }
+      ]
+    }
+  ]
+}
