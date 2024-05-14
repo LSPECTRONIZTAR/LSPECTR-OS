@@ -1,5 +1,7 @@
 ![LSPECTR-OS Logo](https://lspectroniztar.github.io/lspectr-os/website/images/Logo.png)
 
+## THIS IS A WORK-IN-PROGRESS SO DON'T ATTEMPT TO INSTALL IT LOL
+
 LSPECTR-OS is an innovative executable application that brings a unique blend of entertainment and functionality to your Windows PC. It's important to note that LSPECTR-OS is not an actual operating system but rather a feature-rich application designed to enhance your digital experience.
 
 ## Features
