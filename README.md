@@ -40,7 +40,7 @@ We would like to extend our sincere thanks to the following libraries and indivi
 
 We welcome contributions to LSPECTR-OS! Feel free to fork the repository, make improvements, and submit pull requests. Together, we can continue to enhance the LSPECTR-OS experience for all users.
 
-If you've developed a project using TurboWarp or PenguinMod that you think would be a great addition to LSPECTR-OS, we welcome your contributions! See the [contribution](https://github.com/LSPECTRONIZTAR/lspectr-os/blob/main/CONTRIBUTING.md) file for more information.
+If you've developed a project using TurboWarp or PenguinMod that you think would be a great addition to LSPECTR-OS, we welcome your contributions! [Read the contribution documentation](https://github.com/LSPECTRONIZTAR/lspectr-os/blob/main/CONTRIBUTING.md) for more information.
 
 ## Support
 
