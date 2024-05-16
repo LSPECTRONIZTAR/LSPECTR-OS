@@ -1,8 +1,9 @@
 ![LSPECTR-OS Logo](https://lspectroniztar.github.io/lspectr-os/website/images/Logo.png)
 
-## THIS IS A WORK-IN-PROGRESS SO DON'T ATTEMPT TO INSTALL IT LOL
+> [!WARNING]
+> This is still a work in progress so don't attempt to install it.
 
-LSPECTR-OS is an innovative executable application that brings a unique blend of entertainment and functionality to your Windows PC. It's important to note that LSPECTR-OS is not an actual operating system but rather a feature-rich application designed to enhance your digital experience.
+LSPECTR-OS is an innovative and completely experimental executable application that brings a unique blend of entertainment and functionality to your Windows PC. It's important to note that LSPECTR-OS is not an actual operating system but rather a feature-rich application designed to enhance your digital experience.
 
 ## Features
 
@@ -13,7 +14,7 @@ LSPECTR-OS is an innovative executable application that brings a unique blend of
 
 ## Installation
 
-To install LSPECTR-OS, simply download the executable file from our [Game Jolt page](insert_gamejolt_link_here) and follow the on-screen instructions.
+To install LSPECTR-OS, simply download the executable file from our [Game Jolt page](insert_gamejolt_link_here) or from the GitHub repository and follow the on-screen instructions.
 
 ## What LSPECTR-OS Can Do
 
