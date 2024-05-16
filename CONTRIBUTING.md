@@ -246,7 +246,7 @@ Next, load your Scratch project in TurboWarp and export sprite files to your com
 
 Create a new folder on your computer exactly named 'Sprites' and place all the exported sprite files into this folder. Now, drag and drop the entire 'Sprites' folder into the repository named after your project on GitHub. You can then get the link of each sprite with the following link: `https://username.github.io/project-repository-name/Sprites/sprite-name.sprite3`.
 
-Then, to streamline asset management within TurboWarp, import the Asset Manager custom extension by [@LilyMakesThings](https://github.com/LilyMakesThings). You can easily import this extension into TurboWarp by using [this link](https://extensions.turbowarp.org/Lily/Assets.js). Use the 'add sprite from URL ()' block to add the sprite directly from the GitHub repository. (If you tested it in TurboWarp, be sure to re-delete the sprites right after.) Then try making a script where the project cannot start until all the sprites are loaded.
+Then, to streamline asset management within TurboWarp, import the Asset Manager custom extension by [@LilyMakesThings](https://github.com/LilyMakesThings). You can easily import this extension into TurboWarp by downloading the [source code](https://extensions.turbowarp.org/Lily/Assets.js). Use the 'add sprite from URL ()' block to add the sprite directly from the GitHub repository. (If you tested it in TurboWarp, be sure to re-delete the sprites right after.) Then try making a script where the project cannot start until all the sprites are loaded.
 
 Then read this entire documentation over. Please don't try to do this to projects that aren't yours. (Remind me to improve this section later.)
   </p>
