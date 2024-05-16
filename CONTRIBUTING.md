@@ -50,7 +50,7 @@ After you've packaged your project, don't close the tab yet. Click 'Export Setti
 
 ## 2. Setting up your game folder
 
-After you have downloaded your packaged project file, locate it in your device's file explorer. If it is an `.html` file, rename it to index.html and store it in a new folder with the original file name (without the `.html` extension). If it is a `.zip` file, extract the file and leave it at that.
+After you have downloaded your packaged project file, locate it in your device's file explorer. If it is an `.html` file, rename it to `index.html` and store it in a new folder with the original file name (without the `.html` extension). If it is a `.zip` file, extract the file and leave it at that.
 
 <details>
   <summary>How to extract your file</summary>
