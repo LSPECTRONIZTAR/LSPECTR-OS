@@ -1,3 +1,5 @@
+This is likely the most random story I've made in all my years of storywriting, I was just desperate to make some content for y'all. Anyway...
+
 In the rhythmic world of Timpanopia, where belly drumming reigns supreme and beat-weaving is a way of life, trouble is afoot! Faizon, his son Faizon Jr., and the colorful members of the Obese Orchestra find themselves in a belly-shaking adventure like never before. When whispers of mysterious bombings threaten the peace of Beatweaver Haven, they discover that the villainous mastermind isn't just planning an attack on Timpanopia but the entire world of Beatweaver Haven itself!
 
 With belly drums booming and kettledrums rolling, our heroes must dance to a new beat as they navigate bureaucracy, uncover clues, and gather allies to thwart the dastardly plans. But can they stop the villain's nefarious plot before it's too late? Join Faizon and his eccentric ensemble on a rollicking journey through rhythms and rumbles in the second installment of the "Adventures in the LSPECTROniverse" series made exclusively for LSPECTR-OS! Will they save the day or end up in a belly-flop of epic proportions?
