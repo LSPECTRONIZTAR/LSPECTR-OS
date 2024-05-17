@@ -14,7 +14,7 @@ LSPECTR-OS is an innovative and completely experimental executable application t
 
 ## Installation
 
-To install LSPECTR-OS, simply download the executable file from our [Game Jolt page](insert_gamejolt_link_here) or from the GitHub repository and follow the on-screen instructions.
+To install LSPECTR-OS, simply download the executable file from our [Game Jolt page](https://gamejolt.com/games/lspectr-os/836989) or from the GitHub repository and follow the on-screen instructions.
 
 ## What LSPECTR-OS Can Do
 
