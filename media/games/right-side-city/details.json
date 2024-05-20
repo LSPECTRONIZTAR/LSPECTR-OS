@@ -2,5 +2,11 @@
   "name": "Right Side City",
   "description": "In this adventure, one adventurous girl by the name of Olivia, after falling into a damp subway station as the result of a crime incident, discovers something’s up with Right Side City. Now she must find a way out of the subway station by clearing missions to face the Void Viper and restore peace.\nUse the arrow keys or the joystick to move and jump. You can perform double-jumps AND wall-jumps.",
   "author": "LSPECTROniverse Games",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "tags": [
+    "platformer",
+    "adventure",
+    "dark",
+    "storymode"
+  ]
 }
