@@ -9,7 +9,7 @@ LSPECTR-OS is an innovative and completely experimental executable application t
 
 - **Gaming Experience**: Play your favorite LSPECTROniverse games directly within LSPECTR-OS, eliminating the hassle of constantly switching between applications for convenience.
 - **Multimedia Content**: Enjoy a variety of entertainment options, including YouTube videos and animations (specifically the ones created by [the developer](https://github.com/LSPECTRONIZTAR)).
-- **Reading Material**: Dive into random stories and novels created by me out of pure boredom to relax and unwind.
+- **Reading Material**: While I didn't have my PC, I spent my time making random novels and stories, but I figured I might as well share my work with others if I was going to work that hard on them. So I added a reading feature for no good reason.
 - **Privacy Assurance**: LSPECTR-OS prioritizes your privacy and security. It does not share your personal information publicly, ensuring a safe and secure environment.
 
 ## Installation
@@ -24,11 +24,17 @@ To install LSPECTR-OS, simply download the executable file from our [Game Jolt p
 
 ## What LSPECTR-OS Cannot Do
 
-- Stick out its gyat(t) for the rizzler.
+- Stick out its gyat(t) for the rizzler (sorry, Gen Alphas!).
 
 ## Planned Features
 
 - Voice chat (only that would require storing passwords into global Game Jolt data and I don't want to take risks)
+
+## Requirements
+- Your device needs to be able to view PDFs in iframe, otherwise you can't read books. Sorry.
+- LSPECTR-OS is not compatible with Chromebooks, because:
+  - I would have to make it into an `.html` as Chromebooks can neither run `.dmg` or `.exe` files, and therefore, the only way to use it on Chromebooks is to run it as an `.html`. Then people will try to run it on mobile devices (since `.html`s work anywhere) and get frustrated upon finding out that LSPECTR-OS isn't compatible with mobile devices either.
+  - Chromebooks are *extremely* slow (not all Chromebooks, but the fastest ones probably aren't even fast enough for LSPECTR-OS to run properly).
 
 ## Acknowledgments
 
@@ -41,11 +47,11 @@ We would like to extend our sincere thanks to the following libraries and indivi
 
 We welcome contributions to LSPECTR-OS! Feel free to fork the repository, make improvements, and submit pull requests. Together, we can continue to enhance the LSPECTR-OS experience for all users.
 
-If you've developed a project using TurboWarp or PenguinMod that you think would be a great addition to LSPECTR-OS, we welcome your contributions! [Read the contribution documentation](https://github.com/LSPECTRONIZTAR/lspectr-os/blob/main/CONTRIBUTING.md) for more information.
+If you've developed a project using TurboWarp or PenguinMod or some other assets that you think would be a great addition to LSPECTR-OS, we welcome your contributions! [Read the contribution documentation](https://github.com/LSPECTRONIZTAR/lspectr-os/blob/main/CONTRIBUTING.md) for more information.
 
 ## Support
 
-If you encounter any issues or have feedback to share, please [open an issue](insert_issue_link_here) on GitHub. Our team is dedicated to providing timely support and addressing any concerns you may have.
+If you encounter any issues or have feedback to share, please [open an issue](insert_issue_link_here) on GitHub or [join my Discord server](https://discord.gg/qPDr5G3Qcn). Our team is dedicated to providing timely support and addressing any concerns you may have.
 
 ## License
 
