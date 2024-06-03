@@ -55,6 +55,6 @@ If you encounter any issues or have feedback to share, please [open an issue](in
 
 ## License
 
-LSPECTR-OS is licensed under the [MIT License](LICENSE), allowing for open collaboration and distribution.
+LSPECTR-OS is licensed under the [MIT License](https://github.com/LSPECTRONIZTAR/lspectr-os/blob/main/LICENSE), allowing for open collaboration and distribution.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
