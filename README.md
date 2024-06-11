@@ -3,7 +3,7 @@
 > [!WARNING]
 > This is still a work in progress so don't attempt to install it.
 
-LSPECTR-OS is an innovative and completely experimental executable application that brings a unique blend of entertainment and functionality to your Windows PC. It's important to note that LSPECTR-OS is not an actual operating system but rather a feature-rich application designed to enhance your digital experience.
+LSPECTR-OS is an innovative and completely experimental executable application that brings a unique blend of entertainment and functionality to your Windows PC and/or Mac. It's important to note that LSPECTR-OS is not an actual operating system but rather a feature-rich application designed to enhance your digital experience.
 
 ## Features
 
