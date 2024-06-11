@@ -51,7 +51,7 @@ If you've developed a project using TurboWarp or PenguinMod or some other assets
 
 ## Support
 
-If you encounter any issues or have feedback to share, please [open an issue](insert_issue_link_here) on GitHub or [join my Discord server](https://discord.gg/qPDr5G3Qcn). Our team is dedicated to providing timely support and addressing any concerns you may have.
+If you encounter any issues or have feedback to share, please [open an issue](https://github.com/LSPECTRONIZTAR/lspectr-os/issues/new) on GitHub or [join my Discord server](https://discord.gg/qPDr5G3Qcn). Our team is dedicated to providing timely support and addressing any concerns you may have.
 
 ## License
 
