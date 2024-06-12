@@ -1,3 +1,5 @@
+Wtf am I doing
+
 ![LSPECTR-OS Logo](https://lspectroniztar.github.io/lspectr-os/website/images/Logo.png)
 
 > [!WARNING]
